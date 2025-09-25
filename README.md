@@ -20,12 +20,12 @@
 ---
 
 ## 📊 GitHub Stats
-![MahmoudRaafat's GitHub stats](https://github.com/MahmoudRaafat-IT/Public-Share.git)
+![MahmoudRaafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudRaafat-IT&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Public Share Repository
-Check out my [Public Share Repository](https://github.com/MahmoudRaafat-IT/Public-Share-Short) for IT, Networking, and SysAdmin snippets, commands, and tools.  
+Check out my [Public Share Repository](https://github.com/MahmoudRaafat-IT/Public-Share.git) for IT, Networking, and SysAdmin snippets, commands, and tools.
 
 ---
 
