@@ -3,7 +3,7 @@
 🌍 Egypt | 💻 IT Help Desk Team Leader  
 
 📫 Contact:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MahmoudRaafat-IT)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-raafat-network)  
 📧 Work: mahmoud.raafat@grand-community.local | Personal: mahmoudraafat033@gmail.com
 
 ---
@@ -21,3 +21,14 @@
 
 ## 📊 GitHub Stats
 ![MahmoudRaafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudRaafat-IT&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Public Share Repository
+Check out my [Public Share Repository](https://github.com/MahmoudRaafat-IT/Public-Share-Short) for IT, Networking, and SysAdmin snippets, commands, and tools.  
+
+---
+
+## 💡 About
+I create and share small scripts, commands, and tools to help with IT tasks and automation.  
+The goal is to **share knowledge, help others learn, and make IT easier**.
