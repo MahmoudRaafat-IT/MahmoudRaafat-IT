@@ -3,7 +3,7 @@
 🌍 Egypt | 💻 IT Help Desk Team Leader  
 
 📫 Contact:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-raafat-network)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudraafatghazi)  
 📧 Work: mahmoud.raafat@grand-community.local | Personal: mahmoudraafat033@gmail.com
 
 ---
