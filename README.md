@@ -1,6 +1,4 @@
-# Hi 👋, I'm Mahmoud Raafat
-
-🌍 Egypt | 💻 IT Help Desk Team Leader  
+# Hi 👋, I'm Mahmoud Raafat 
 
 📫 Contact:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudraafatghazi)  
